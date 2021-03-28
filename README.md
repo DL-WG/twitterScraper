@@ -36,7 +36,7 @@ INSTRUCTIONS
     - output folder : This is where the tweets will be stored. There is one .csv file for each query (row) in query_list.csv. The filenames correspond to the index field in query_list.csv.
 - Prepare your queries: make sure the CSV query_list is in the correct format with your own queries in.
 - Run main.py :
-  - open the terminal/command line app and change directory to the project. If the project is in your downloads folder, then just type the following command: 'cd downloads/twitterScraper-master'
+  - open the terminal/command line app and change directory to the project. If the project is in your downloads folder, then just type the following command: 'cd downloads/twitterScraper-main'
   - enter the command 'python main.py'
   - The program should start running and logging tweet collection. At the end there will be a message to say if the run is successful.
 - Tweets for the queries should be in the output folder.
