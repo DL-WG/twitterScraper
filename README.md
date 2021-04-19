@@ -2,6 +2,7 @@
 
 REQUIREMENTS
 - Python 3
+- A twitter developer account
 
 OVERVIEW
 - The input for the script is query_list.csv. You edit/swap out this document for your own queries 
